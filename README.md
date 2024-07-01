@@ -4,8 +4,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | ALVIN ALFANDY |
-| **NIM** | 312310473 |
+| **Nama** | ALI MUBAROQ |
+| **NIM** | 312310452 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Basis data |
 
